@@ -33,7 +33,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "Pixelatom/Url": "dev-master"
+        "pixelatom/url": "dev-master"
     }
     
 }
