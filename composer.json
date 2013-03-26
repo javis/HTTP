@@ -25,14 +25,15 @@
             "Pixelatom": "src/"
         }
     },
-    "require": {
-        "php": ">=5.3.0",
-        "Pixelatom/Url": "dev-master"
-    },
     "repositories": [        
         {
             "type": "vcs",
             "url": "https://github.com/Pixelatom/Url"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "Pixelatom/Url": "dev-master"
+    }
+    
 }
